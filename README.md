@@ -1,4 +1,4 @@
-# docker-php-5
+# Ambiente de desenvolvimento PHP e MariaDb com Docker
 Ambiente de desenvolvimento em PHP usando docker. 
 
 Para subir o ambiente execute:
