@@ -7,7 +7,6 @@ services:
     # Versão da imagem do banco de dados
     # https://hub.docker.com/_/mariadb/
     image: mariadb:10.5    
-    restart: always
     # Mapeamento de diretórios do container para a pasta local
     volumes: 
       - ./docker/mariadb/data:/var/lib/mysql/data
